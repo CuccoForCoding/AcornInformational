@@ -55,7 +55,7 @@ img {
   width: 147px;
 }
 
-.web-1920 .group-3127 {
+/*.web-1920 .group-3127 {
   align-items: flex-end;
   display: flex;
   height: 30px;
@@ -65,18 +65,21 @@ img {
   position: absolute;
   top: 0;
   width: 147px;
-}
+}*/
 
-.web-1920 .group-3124 {
-  background-image: url(../img/path-287@1x.png);
-  background-position: 50% 50%;
+
+.web-1920 .group-3127 {
+  background-image: url(../img/whiteAcorn.png);
+  background-position: 100% 100%;
   background-size: cover;
-  height: 29px;
+  height: 100px;
   margin-bottom: 0;
   margin-left: 1px;
-  width: 25px;
+  width: 75px;
+  padding-bottom: 20px;
 }
 
+/* CSS FOR ACORN LOGO AT TOP OF PAGE
 .web-1920 .group-3125 {
   background-image: url(../img/path-288@1x.png);
   background-position: 50% 50%;
@@ -117,7 +120,7 @@ img {
   position: absolute;
   top: 0;
   width: 32px;
-}
+}*/
 
 .web-1920 .overlap-group13 {
   align-self: flex-end;

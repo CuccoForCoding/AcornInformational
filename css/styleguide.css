@@ -1,0 +1,97 @@
+:root { 
+  --parsley: #14441e;
+  --plantation: #295032;
+  --white: #ffffff;
+  --x000000: #000000;
+ 
+  --font-size-l: 35px;
+  --font-size-m: 30px;
+  --font-size-s: 25px;
+  --font-size-xl: 50px;
+  --font-size-xs: 18px;
+  --font-size-xxl: 60px;
+  --font-size-xxxl: 80px;
+ 
+  --font-family-open_sans: "Open Sans", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+  --font-family-teko: "Teko", Helvetica;
+}
+.teko-normal-parsley-30px {
+  color: var(--parsley);
+  font-family: var(--font-family-teko);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.opensans-normal-black-18px {
+  color: var(--x000000);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.teko-normal-parsley-30px-2 {
+  color: var(--parsley);
+  font-family: var(--font-family-teko);
+  font-size: var(--font-size-m);
+}
+
+.teko-bold-parsley-30px {
+  color: var(--parsley);
+  font-family: var(--font-family-teko);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-bold-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.teko-normal-parsley-80px {
+  color: var(--parsley);
+  font-family: var(--font-family-teko);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-normal-parsley-35px {
+  color: var(--parsley);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+}
+
+.roboto-black-parsley-35px {
+  color: var(--parsley);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.opensans-normal-parsley-18px {
+  color: var(--parsley);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-black-parsley-50px {
+  color: var(--parsley);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.border-3px-plantation {
+  border: 3px solid var(--plantation);
+}

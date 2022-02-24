@@ -29,6 +29,10 @@ img {
   width: 1921px;
 }
 
+.web1920 .makeSpace {
+  padding-top: 50px;
+}
+
 .web-1920 .overlap-group8 {
   align-items: flex-end;
   background-image: url(../img/back-darkgreen-3@1x.png);
@@ -326,6 +330,7 @@ img {
   position: absolute;
   top: 244px;
   width: 707px;
+  
 }
 
 .web-1920 .data_03 {

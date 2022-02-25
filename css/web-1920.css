@@ -24,7 +24,7 @@ img {
   background-color: var(--white);
   display: flex;
   flex-direction: column;
-  height: 7300px;
+  height: 3500px;
   overflow: hidden;
   width: 1921px;
 }
@@ -73,7 +73,7 @@ img {
 
 
 .web-1920 .group-3127 {
-  background-image: url(../img/goldandwhite\ copy.png);
+  background-image: url(../img/goldandwhite\ copy.png);   /********************* HEADER IMAGE BACKGROUND! ***************************/
   background-position: 100% 100%;
   background-size: cover;
   height: 100px;
@@ -335,7 +335,7 @@ img {
 
 .web-1920 .data_03 {
   height: 527px;
-  left: 705px;
+  left: 785px;
   object-fit: cover;
   position: absolute;
   top: 0;
@@ -364,10 +364,10 @@ img {
   height: 90px;
   justify-content: flex-end;
   left: 0;
-  min-width: 100px;
-  padding: 1px 19px;
+  min-width: 70px;
+  padding: 1.5px 19px;
   position: absolute;
-  top: 384px;
+  top: 400px;
 }
 
 .web-1920 .group-3068:hover {
@@ -657,7 +657,7 @@ img {
 }
 
 .web-1920 .what-is-algonuts {
-  left: 697px;
+  left: 450px;
   letter-spacing: 0;
   line-height: 65px;
   position: absolute;
@@ -2055,9 +2055,9 @@ img {
 }
 
 .web-1920 .group-3163 {
-  height: 678px;
+  height: 650px;
   margin-left: 2px;
-  margin-top: 82px;
+  margin-top: 20px; /* *****************MAKE SPACING BETWEEN TOKENOMICS AND GRAPH FLUSH!***************** */
   position: relative;
   width: 1105px;
 }

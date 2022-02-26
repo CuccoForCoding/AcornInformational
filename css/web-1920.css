@@ -228,6 +228,15 @@ img {
   width: 2px;
 }
 
+.web-1920 .line-11 {
+    height: 19px;
+    left: 470px;
+    object-fit: cover;
+    position: absolute;
+    top: 2px;
+    width: 2px;
+}
+
 .web-1920 .overlap-group14 {
   height: 541px;
   margin-right: 12px;
@@ -642,7 +651,7 @@ img {
   left: 127px;
   opacity: 0.87;
   position: absolute;
-  top: 0;
+  top: 3;
   width: 1667px;
 }
 
@@ -657,7 +666,7 @@ img {
 }
 
 .web-1920 .what-is-algonuts {
-  left: 450px;
+  left: 850px;
   letter-spacing: 0;
   line-height: 65px;
   position: absolute;
